@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# El build agrega la URL real del sitemap al desplegar en Vercel.

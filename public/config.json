@@ -1,0 +1,29 @@
+{
+  "local": {
+    "name": "Ozzen Burger",
+    "instagram": "https://www.instagram.com/ozzen.burger/",
+    "instagramHandle": "@ozzen.burger",
+    "whatsapp": "",
+    "menuUrl": "",
+    "address": "",
+    "hours": "",
+    "mapsUrl": "",
+    "zone": "Las Lomitas",
+    "region": "Buenos Aires"
+  },
+  "menu": {
+    "title": "GUSTO PROPIO.",
+    "subtitle": "Encontrá tu próximo encuentro favorito.",
+    "currency": "ARS",
+    "emptyMessage": "Consultá la carta y las novedades en nuestro Instagram.",
+    "categories": []
+  },
+  "seo": {
+    "siteUrl": "",
+    "indexable": true,
+    "homeTitle": "Ozzen Burger | Hamburguesería en Las Lomitas",
+    "homeDescription": "Conocé Ozzen Burger: hamburguesas con raíces, actitud y gusto propio en Las Lomitas. Descubrí la marca y seguí sus novedades.",
+    "menuTitle": "Menú | Ozzen Burger en Las Lomitas",
+    "menuDescription": "Conocé el menú de Ozzen Burger en Las Lomitas. Hamburguesas con raíces, actitud y gusto propio."
+  }
+}
